@@ -30,8 +30,7 @@ Here are some ideas to get you started: -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Antenna%20Bars.png" alt="Antenna Bars" width="25" height="25" /> Github commit and current status
 
-<span style="display:block;text-align:center;width:full">![profileDetails](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiatulislam&theme=algolia)</span>
+<p><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiatulislam&theme=algolia" alt="profileDetails"></p>
 
-![status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiatulislam&theme=algolia)
-
-![productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiatulislam&theme=algolia&utcOffset=6)
+<p><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiatulislam&theme=algolia" alt="status"></p>
+<p><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiatulislam&theme=algolia&utcOffset=6" alt="productivity"></p>
