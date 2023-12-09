@@ -25,6 +25,20 @@ Here are some ideas to get you started: -->
   </a>
 </p>
 
+## Connect with me
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/md-taiatul-islam-apon-2b9072246/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/taiatulislam.apon/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://github.com/taiatulislam">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taiatulislam&theme=ocean-gradient&border_radius=5)](https://git.io/streak-stats)
 
