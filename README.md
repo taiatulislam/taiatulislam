@@ -34,9 +34,6 @@ Here are some ideas to get you started: -->
   <a href="https://www.facebook.com/taiatulislam.apon/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://github.com/taiatulislam">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
 </div>
 
 ## Streak Stats
