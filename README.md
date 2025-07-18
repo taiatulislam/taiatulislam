@@ -1,13 +1,20 @@
 <div align="center">
-  <img src="https://github.com/taiatulislam/taiatulislam/blob/main/github-banner.jpg" alt="Banner" width="100%" height="450px" />
+  <img 
+    src="https://github.com/taiatulislam/taiatulislam/blob/main/banner.png" 
+    alt="Banner" 
+    width="100%" 
+    height="350px" 
+    style="border-radius: 15px; object-fit: cover;" 
+  />
 </div>
 
 <h1 align="center">
   <span style="color:#687FE5;">Hi there, I'm Taiatul Islam 👋</span><br />
-  <span style="color:#093FB4; font-size: 18px; font-weight: bold;">Front-End Developer | MERN Stack Enthusiast</span>
+  <span style="color:#093FB4; font-size: 12px; font-weight: bold;">Front-End Developer | MERN Stack Enthusiast</span>
 </h1>
 
 ## 👨‍💻 About Me
+
 - 💻 **Front-End Developer** at **Fly Far Tech**.
 - 🎓 **Computer Science & Engineering graduate** from **United International University, Dhaka**.
 - ⚙️ Skilled in **HTML, CSS, Tailwind CSS, Material UI, JavaScript, and React**.
