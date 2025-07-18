@@ -2,46 +2,75 @@
   <img src="https://github.com/taiatulislam/taiatulislam/blob/main/github-banner.jpg" alt="Banner" width="100%" height="450px" />
 </div>
 
-<!--
-**taiatulislam/taiatulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><span style="color:#687FE5;">Hi there, I&#39;m Taiatul Islam 👋</span></h1>
+<p align="center"><b><span style="color:#093FB4 ;">Front-End Developer | MERN Stack Enthusiast</span></b></p>
 
-Here are some ideas to get you started: -->
+---
 
-## About Me
-- ✨ I'm Taiatul islam, a recent graduate in Computer Science & Engineering from United International University, Dhaka, Bangladesh.
-- ⚡ I have an expertise in HTML, CSS, Tailwind, js and React. 
-- 🔭 I’m currently looking for jobs or intern based on my skills in MERN stack.
-- 🌱 I’m currently exploring Nextjs, more about expressjs and mongodb.
+##👨‍💻 About Me
+- 💻 **Front-End Developer** at **Fly Far Tech**.
+- 🎓 **Computer Science & Engineering graduate** from **United International University, Dhaka**.
+- ⚙️ Skilled in **HTML, CSS, Tailwind CSS, Material UI, JavaScript, and React**.
+- 🚀 Passionate about building **user-friendly, responsive web applications**.
+- 🌱 Continuously learning and exploring **new Front-End tools, frameworks, and best practices** to stay current.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Skills
+---
+
+## 💻 Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,react,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,react,git,github,vscode" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nodejs,express,nextjs,ps,vscode" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,firebase" />
   </a>
 </p>
 
-## Connect with me
+---
 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/md-taiatul-islam-apon-2b9072246/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+## 🌐 Connect with Me
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+  <a href="https://www.linkedin.com/in/md-taiatul-islam-apon-2b9072246/" target="_blank" rel="noreferrer" style="border-radius: 3px; overflow: hidden;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; width: auto;" />
+</a>
+&nbsp;
+  <a href="https://www.facebook.com/taiatulislam.apon/" target="_blank" rel="noreferrer" style="border-radius: 3px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="height: 30px; width: auto;"/>
   </a>
-  <a href="https://www.facebook.com/taiatulislam.apon/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  &nbsp;
+  <a href="https://discord.com/users/taiatulislamapon" target="_blank" rel="noreferrer" style="border-radius: 3px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="height: 30px; width: auto;" />
   </a>
+  &nbsp;
+  <a href="https://wa.me/01746847641" target="_blank" rel="noreferrer" style="border-radius: 3px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="height: 30px; width: auto;" />
+  </a>
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=taiatulislam&theme=ocean-gradient&border_radius=5" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiatulislam&theme=algolia" alt="Profile Details" />
+</p>
+
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiatulislam&theme=algolia" alt="Stats" style="width: 49%; min-width: 250px;" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiatulislam&theme=algolia&utcOffset=6" alt="Productivity Time" style="width: 49%; min-width: 250px;" />
 </div>
 
-## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taiatulislam&theme=ocean-gradient&border_radius=5)](https://git.io/streak-stats)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Antenna%20Bars.png" alt="Antenna Bars" width="25" height="25" /> Github commit and current status
-
-<p><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taiatulislam&theme=algolia" alt="profileDetails"></p>
-
-<p><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiatulislam&theme=algolia" alt="status"></p>
-<p><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taiatulislam&theme=algolia&utcOffset=6" alt="productivity"></p>
+---
