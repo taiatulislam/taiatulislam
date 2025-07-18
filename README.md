@@ -2,8 +2,10 @@
   <img src="https://github.com/taiatulislam/taiatulislam/blob/main/github-banner.jpg" alt="Banner" width="100%" height="450px" />
 </div>
 
-<h1 align="center"><span style="color:#687FE5;">Hi there, I&#39;m Taiatul Islam 👋</span></h1>
-<p align="center"><b><span style="color:#093FB4 ;">Front-End Developer | MERN Stack Enthusiast</span></b></p>
+<h1 align="center">
+  <span style="color:#687FE5;">Hi there, I'm Taiatul Islam 👋</span><br />
+  <span style="color:#093FB4; font-size: 18px; font-weight: bold;">Front-End Developer | MERN Stack Enthusiast</span>
+</h1>
 
 ## 👨‍💻 About Me
 - 💻 **Front-End Developer** at **Fly Far Tech**.
@@ -47,12 +49,12 @@
 </p>
 
 ## 🔥 GitHub Streak
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=taiatulislam&theme=ocean-gradient&border_radius=5" alt="GitHub Streak"/>
   </a>
 </p>
-
 
 ## 📊 GitHub Stats & Activity
 
